@@ -1,0 +1,9 @@
+C:\Users\ASUS\documents\visual studio 2017\Projects\MovieRecommendation\MovieRecommendation\obj\Debug\MovieRecommendation.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\documents\visual studio 2017\Projects\MovieRecommendation\MovieRecommendation\obj\Debug\MovieRecommendation.Form1.resources
+C:\Users\ASUS\documents\visual studio 2017\Projects\MovieRecommendation\MovieRecommendation\obj\Debug\MovieRecommendation.Properties.Resources.resources
+C:\Users\ASUS\documents\visual studio 2017\Projects\MovieRecommendation\MovieRecommendation\obj\Debug\MovieRecommendation.csproj.GenerateResource.Cache
+C:\Users\ASUS\documents\visual studio 2017\Projects\MovieRecommendation\MovieRecommendation\bin\Debug\MovieRecommendation.exe.config
+C:\Users\ASUS\documents\visual studio 2017\Projects\MovieRecommendation\MovieRecommendation\bin\Debug\MovieRecommendation.exe
+C:\Users\ASUS\documents\visual studio 2017\Projects\MovieRecommendation\MovieRecommendation\bin\Debug\MovieRecommendation.pdb
+C:\Users\ASUS\documents\visual studio 2017\Projects\MovieRecommendation\MovieRecommendation\obj\Debug\MovieRecommendation.exe
+C:\Users\ASUS\documents\visual studio 2017\Projects\MovieRecommendation\MovieRecommendation\obj\Debug\MovieRecommendation.pdb
